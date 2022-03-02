@@ -1,7 +1,3 @@
 venv/
-settings.py
-htmlcov/
-__pycache__
-migrations
-admin.py
-db.sqlite3
+*.sqlite3
+__pycache__/
